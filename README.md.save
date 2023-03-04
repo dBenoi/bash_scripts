@@ -59,7 +59,7 @@ Operators
 - -lt = less than
 
 Tips
-- Use **if [ -f <fileName> ]** to determine if a file exists
+- Use **if [ -f <fileName> ]** to determine if a file exists, use "d" for directory.
 
 
 ## Exit Codes
